@@ -2,7 +2,7 @@
 
 <h4><strong>Optidium is a modpack that gives you high performance even on potato PCs. This is achieved by using performance mods such as the infamous sodium mod and immediatlyFast. This modpack favours performance rather than QoL. </strong></h4>
 
-<center><img src="https://cdn.modrinth.com/data/uPrhNYZW/images/74edf1b08aa00c75f9902ac47ad752b4dbe28f18.png"width="1380" height="525"></center>
+<center><img src="https://cdn.modrinth.com/data/uPrhNYZW/images/74edf1b08aa00c75f9902ac47ad752b4dbe28f18.png"width="1380" height="475"></center>
 
 <center><strong><small> Taken on an Optiplex 7060 (Low end PC) specs can be found <a href="https://www.hardware-corner.net/desktop-models/Dell-OptiPlex-7060-SFF/">here</a> </small></strong></center>
 
